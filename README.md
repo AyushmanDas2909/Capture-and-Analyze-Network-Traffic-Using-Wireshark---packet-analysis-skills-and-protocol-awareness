@@ -1,6 +1,7 @@
-Network Traffic Analysis Project 
----
-Project Overview
+# Network Traffic Analysis Project 
+
+
+## Project Overview
 
 This project focuses on the analysis of live network traffic captured from a local device interface.
 
@@ -37,8 +38,6 @@ This repository contains the following two key files:
 Tools Used
 ---
 Wireshark: For packet capturing and filtering.
-
----
 
 
 
