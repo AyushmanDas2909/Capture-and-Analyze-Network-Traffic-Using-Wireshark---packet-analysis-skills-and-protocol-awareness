@@ -16,17 +16,19 @@ The analysis covers the successful identification of IPv4/IPv6 traffic, encrypte
 Repository Contents
 ---
 This repository contains the following two key files:
+---
 
-1. PCAP FILE
-   ---
+
+PCAP FILE--
+   
    
    Description: This is the raw packet capture file generated using Wireshark.
 
    Contents: It contains approximately 88 seconds of recorded network traffic, including over 1,200 packets. Usage: You can open this file in Wireshark to inspect the individual packets, apply filters, and verify the findings.
 
    
-3. REPORT
-   ---
+REPORT--
+   
    
    Description: A comprehensive project report detailing the findings from the packet capture.
    
