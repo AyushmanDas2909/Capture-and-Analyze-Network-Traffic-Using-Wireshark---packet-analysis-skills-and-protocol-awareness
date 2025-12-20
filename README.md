@@ -10,16 +10,17 @@ The primary objective was to identify various communication protocols, inspect p
 The analysis covers the successful identification of IPv4/IPv6 traffic, encrypted transport protocols (QUIC, TLS 1.3), and local network discovery mechanisms.
 
 
----
+
 
 
 Repository Contents
 ---
+
 This repository contains the following two key files:
----
 
 
-PCAP FILE--
+
+*PCAP FILE*--
    
    
    Description: This is the raw packet capture file generated using Wireshark.
@@ -27,12 +28,14 @@ PCAP FILE--
    Contents: It contains approximately 88 seconds of recorded network traffic, including over 1,200 packets. Usage: You can open this file in Wireshark to inspect the individual packets, apply filters, and verify the findings.
 
    
-REPORT--
+*REPORT*--
    
    
    Description: A comprehensive project report detailing the findings from the packet capture.
    
    Contents: Step-by-step methodology used for the capture. Technical analysis of protocols (DNS, TCP, TLS, QUIC).Specific observations regarding traffic sources (e.g., Spotify, Google Services).
+
+
 
 
 
