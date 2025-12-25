@@ -31,9 +31,11 @@ This repository contains the following two key files:
 *REPORT*--
    
    
-   Description: A comprehensive project report detailing the findings from the packet capture.
+   Description: 
+   A comprehensive project report detailing the findings from the packet capture.
    
-   Contents: Step-by-step methodology used for the capture. Technical analysis of protocols (DNS, TCP, TLS, QUIC).Specific observations regarding traffic sources (e.g., Spotify, Google Services).
+   Contents: 
+   Step-by-step methodology used for the capture. Technical analysis of protocols (DNS, TCP, TLS, QUIC).Specific observations regarding traffic sources (e.g., Spotify, Google Services).
 
 
 
